@@ -2,7 +2,7 @@
   "name": "0cord",
   "author": "Ave, ported by Cynthia",
   "version": "0.0.1",
-  "license": "GPLv3",
+  "license": "CC-BY-NC/MIT",
   "updater": "https://raw.githubusercontent.com/Cynosphere/Ali0cord/master/0cord.json",
 
   "color_dark_grey_2": -16777216,
