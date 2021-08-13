@@ -1,0 +1,71 @@
+{
+  "name": "0cord",
+  "author": "Ave, ported by Cynthia",
+  "version": "0.0.1",
+  "license": "GPLv3",
+  "updater": "https://raw.githubusercontent.com/Cynosphere/Ali0cord/master/0cord.json",
+
+  "color_dark_grey_2": -16777216,
+  "color_dark_grey_2_alpha_10": -16777216,
+  "color_design_dark_default_color_background": -16777216,
+  "color_design_dark_default_color_surface": -16777216,
+  "color_grey_account": -16777216,
+  "color_grey_unread": -16777216,
+  "color_primary_600": -16777216,
+  "color_primary_630": -16777216,
+  "color_primary_660": -16777216,
+  "color_primary_700": -16777216,
+  "color_primary_dark_600": -16777216,
+  "color_primary_dark_630": -16777216,
+  "color_primary_dark_700": -16777216,
+  "color_purple_brand_dark": -16777216,
+  "color_colorPrimaryDark": -16777216,
+  "simple_bg_color": -16777216,
+  "simple_bg_secondary_color": -16777216,
+  "input_background_color": -16777216,
+
+  "color_primary_700_alpha_50": -2147483648,
+
+  "color_primary_600_alpha_60": -1728053248,
+  "color_primary_630_alpha_60": -1728053248,
+  "color_primary_700_alpha_60": -1728053248,
+
+  "color_primary_630_alpha_90": -436207616,
+  "color_primary_660_alpha_90": -436207616,
+  "color_tooltip_background_dark": -436207616,
+
+  "color_primary_500": -13421773,
+  "color_theme_chat_blocked_bg": -13421773,
+  "color_theme_chat_spoiler_bg": -13421773,
+
+  "color_primary_500_alpha_20": 856624911,
+  "color_primary_500_alpha_30": 1292832527,
+  "color_primary_500_alpha_32": 1359941391,
+  "color_primary_500_alpha_60": -1727066353,
+
+  "color_purple_brand": -6536631,
+  "color_brand_new": -6536631,
+  "color_brand_new_300": -6536631,
+  "color_brand_new_330": -6536631,
+  "color_brand_new_360": -6536631,
+  "color_brand_new_400": -6536631,
+  "color_brand_new_430": -6536631,
+  "color_brand_new_460": -6536631,
+  "color_brand_new_500": -6536631,
+  "color_brand_new_530": -6536631,
+  "color_brand_new_560": -6536631,
+  "color_brand_new_600": -6536631,
+  "color_brand_new_630": -6536631,
+  "color_brand_new_660": -6536631,
+  "color_uikit_btn_bg_color_selector_brand": -6536631,
+  "simple_accent_color": -6536631,
+
+  "color_purple_brand_alpha_10": 446448201,
+  "color_theme_chat_mentioned_me": 446448201,
+  "mention_highlight": 446448201,
+
+  "active_channel_color": -15790321,
+  "drawablecolor_drawable_overlay_channels_selected_dark": -15790321,
+
+  "color_link": -11472568
+}

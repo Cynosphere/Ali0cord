@@ -1,2 +1,2 @@
 # Ali0cord
-0crd port for Aliucord Themer and DiscordThemer
+[0cord](https://gitlab.com/a/0cord) port for Aliucord Themer and DiscordThemer
